@@ -4,7 +4,7 @@
     "title": "DHEERAN BETRAYED BUT UNBOWED",
     "genre": "Historical Fiction",
     "description": "Cloud-synced historical epic.",
-    "coverImagePath": "dheeran_cover",
+    "coverImagePath": "https://gayathridevisr-max.github.io/cb-bookshelf-assets/dheeran_cover.jpg",
     "pdfUrl": "https://gayathridevisr-max.github.io/cb-bookshelf-assets/DHEERAN%20BETRAYED%20BUT%20UNBOWED.pdf",
     "audioUrl": ""
   },
@@ -13,7 +13,7 @@
     "title": "COCHIN TRIP",
     "genre": "Travel & Audio",
     "description": "Original audio track.",
-    "coverImagePath": "cochin_trip",
+    "coverImagePath": "https://gayathridevisr-max.github.io/cb-bookshelf-assets/cochin_cover.jpg",
     "pdfUrl": "",
     "audioUrl": "https://gayathridevisr-max.github.io/cb-bookshelf-assets/COCHINTRIP.mp3"
   },
@@ -22,7 +22,7 @@
     "title": "UYIR NEYYUTHE",
     "genre": "Traditional Tamil",
     "description": "Original musical composition.",
-    "coverImagePath": "uyir_neyyuthe",
+    "coverImagePath": "https://gayathridevisr-max.github.io/cb-bookshelf-assets/uyir_cover.jpg",
     "pdfUrl": "",
     "audioUrl": "https://gayathridevisr-max.github.io/cb-bookshelf-assets/UYIR%20NEYYUTHE.mp3"
   }
